@@ -18,7 +18,7 @@ The dashboard reveals:
 - Key health variables influencing **stroke occurrence probability**
 
 
-![Dashboard Preview](visuals/tableau_dashboard_preview.png)
+![Dashboard Preview](visuals/BRAIN STROKE ANALYSIS DASHBOARD.png)
 
 ---
 
