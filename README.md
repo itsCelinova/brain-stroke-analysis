@@ -60,3 +60,14 @@ The dashboard reveals:
 ---
 
 ## 🧾 Repository Structure  
+brain-stroke-analysis/
+│
+├── Stroke_Data_analysis.py
+├── stroke_data_only.csv
+├── visuals/
+│   ├── correlation_heatmap.png
+│   ├── feature_correlation_bar.png
+│   └── tableau_dashboard_preview.png
+├── README.md
+└── requirements.txt
+
