@@ -17,6 +17,7 @@ The dashboard reveals:
 - Lifestyle and demographic analysis (Gender, Smoking Status, Residence Type)  
 - Key health variables influencing **stroke occurrence probability**
 
+
 ![Dashboard Preview](visuals/tableau_dashboard_preview.png)
 
 ---
